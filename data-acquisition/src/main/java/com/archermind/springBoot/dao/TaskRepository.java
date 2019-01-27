@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.archermind.springBoot.dao;
 
 import java.util.List;
